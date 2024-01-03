@@ -1,0 +1,86 @@
+body{
+    background-color: rgb(227, 90, 90);
+
+    font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Lobster', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+}
+.section{
+    background-color: white;
+    
+    padding-top: 34px;
+    margin-top: 200px;
+    margin-right: 20em;
+    margin-left: 20em;
+    border-radius: 5px;
+    
+}
+#Login{
+    margin-left: 43px;
+    font-size: 25px;
+    margin-bottom: 15px;
+    
+}
+
+
+
+#email{
+    margin-top: 50px;
+    margin-left: 43px;
+    border: solid 0.5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+
+
+}
+#password{
+    margin-top: 20px;
+    margin-left: 43px;
+    border: solid 0.5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+#linkk{
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+#button{
+    background: linear-gradient(to right, rgb(197, 190, 190) 50%, rgb(69, 69, 110) 50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 23px;
+    
+    
+}
+.signin{
+    margin-right: 20%;
+}
+.REGISTER{
+    margin-left: 20%;
+}
+#link{
+    text-decoration: none;
+    color: #999;
+}
+#link:hover{
+    text-decoration: underline;
+}
+
+.signin:hover{
+    opacity: 0.2;
+    cursor: pointer;
+}
+.REGISTER:hover{
+    opacity: 0.2;
+    cursor: pointer;
+}
